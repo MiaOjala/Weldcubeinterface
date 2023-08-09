@@ -1,0 +1,233 @@
+<WeldResponseModel xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Blackbone.WebInterface.Api.Dto.v4.ResponseModels.Welds">
+    <ResponseMetadata xmlns="">
+        <Errors />
+        <GetsDeprecated>false</GetsDeprecated>
+        <Version>v4</Version>
+    </ResponseMetadata>
+    <ActualValues>http://weldcube.ky.local/api/v4/Welds/63cf1d5e-b01a-4bd1-8e58-5401bd18178a/ActualValues</ActualValues>
+    <Changes />
+    <Duration>102.5</Duration>
+    <Errors>
+        <Error>
+            <ErrorCode>1</ErrorCode>
+            <ErrorCodeName>codename</ErrorCodeName>
+            <Description>description</Description>
+        </Error>
+    </Errors>
+    <IsCompleted>true</IsCompleted>
+    <MachineSerialNumber>31147476</MachineSerialNumber>
+    <MachineType>Tpsi</MachineType>
+    <Model>TPS 500i PULSE</Model>
+    <PartItemNumber>P1ZZ</PartItemNumber>
+    <PartSerialNumber>1</PartSerialNumber>
+    <ProcessingStepNumber>650</ProcessingStepNumber>
+    <ProgramNumber i:nil="true" />
+    <State>Ok</State>
+    <TimeStamp>2023-02-08T13:13:44.163</TimeStamp>
+    <Units xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Current</d2p1:Key>
+            <d2p1:Value>A</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Voltage</d2p1:Key>
+            <d2p1:Value>V</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>WirefeedSpeed</d2p1:Key>
+            <d2p1:Value>m/min</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Power</d2p1:Key>
+            <d2p1:Value>W</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>WeldingSpeed</d2p1:Key>
+            <d2p1:Value>cm/min</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>MotorCurrent1</d2p1:Key>
+            <d2p1:Value>A</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>MotorForce1</d2p1:Key>
+            <d2p1:Value>N</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>MotorCurrent2</d2p1:Key>
+            <d2p1:Value>A</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>MotorForce2</d2p1:Key>
+            <d2p1:Value>N</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>MotorCurrent3</d2p1:Key>
+            <d2p1:Value>A</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>MotorForce3</d2p1:Key>
+            <d2p1:Value>N</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>GasFlowRate</d2p1:Key>
+            <d2p1:Value>l/min</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Time</d2p1:Key>
+            <d2p1:Value>s</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Wire consumption (length)</d2p1:Key>
+            <d2p1:Value>m</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Wire consumption (weight)</d2p1:Key>
+            <d2p1:Value>g</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Wire consumption (volume)</d2p1:Key>
+            <d2p1:Value>mm³</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Energy</d2p1:Key>
+            <d2p1:Value>kJ</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Gas consumption</d2p1:Key>
+            <d2p1:Value>l</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Arc energy</d2p1:Key>
+            <d2p1:Value>kJ/cm</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+        <d2p1:KeyValueOfstringstring>
+            <d2p1:Key>Seam length</d2p1:Key>
+            <d2p1:Value>m</d2p1:Value>
+        </d2p1:KeyValueOfstringstring>
+    </Units>
+    <WeldData>
+        <LimitViolations xmlns="">
+            <LimitViolation>
+                <ValueType>testi dataaa</ValueType>
+                <ViolationType>lisää testi dataa</ViolationType>
+            </LimitViolation>
+        </LimitViolations>
+        <Sections xmlns="">
+            <Section>
+                <Details>http://weldcube.ky.local/api/v4/Welds/63cf1d5e-b01a-4bd1-8e58-5401bd18178a/Sections/1</Details>
+                <JobInfo>
+                    <Details>http://weldcube.ky.local/api/v4/Machines/31147476/Jobs/35?revision=34&amp;mcuSerialNumber=31011000677760034&amp;date=2023-02-08%2008%3A34%3A44.000</Details>
+                    <IsDeleted>false</IsDeleted>
+                    <LastModified>2023-02-08T10:34:44</LastModified>
+                    <Name>print35</Name>
+                    <Nr>35</Nr>
+                    <Revision>34</Revision>
+                </JobInfo>
+                <Number>1</Number>
+            </Section>
+            <Section>
+                <Details>http://weldcube.ky.local/api/v4/Welds/63cf1d5e-b01a-4bd1-8e58-5401bd18178a/Sections/2</Details>
+                <JobInfo>
+                    <Details>http://weldcube.ky.local/api/v4/Machines/31147476/Jobs/35?revision=34&amp;mcuSerialNumber=31011000677760034&amp;date=2023-02-08%2008%3A34%3A44.000</Details>
+                    <IsDeleted>false</IsDeleted>
+                    <LastModified>2023-02-08T10:34:44</LastModified>
+                    <Name>print35</Name>
+                    <Nr>35</Nr>
+                    <Revision>34</Revision>
+                </JobInfo>
+                <Number>2</Number>
+            </Section>
+        </Sections>
+        <SingleStats xmlns="">
+            <SingleStat>
+                <Name>Wire consumption (length)</Name>
+                <Unit>m</Unit>
+                <Value>8.787868</Value>
+            </SingleStat>
+            <SingleStat>
+                <Name>Wire consumption (weight)</Name>
+                <Unit>g</Unit>
+                <Value>54.18</Value>
+            </SingleStat>
+            <SingleStat>
+                <Name>Wire consumption (volume)</Name>
+                <Unit>mm³</Unit>
+                <Value>6901.975</Value>
+            </SingleStat>
+            <SingleStat>
+                <Name>Arc gas consumption</Name>
+                <Unit>l</Unit>
+                <Value>25.6123275756836</Value>
+            </SingleStat>
+            <SingleStat>
+                <Name>Energy</Name>
+                <Unit>kJ</Unit>
+                <Value>211.6949</Value>
+            </SingleStat>
+            <SingleStat>
+                <Name>Arc energy</Name>
+                <Unit>kJ/cm</Unit>
+                <Value>2.065317</Value>
+            </SingleStat>
+            <SingleStat>
+                <Name>Seam length</Name>
+                <Unit>m</Unit>
+                <Value>1.025</Value>
+            </SingleStat>
+        </SingleStats>
+        <Stats xmlns="">
+            <MinMeanMax>
+                <Max>130.125</Max>
+                <Mean>118.55105590820313</Mean>
+                <Min>0</Min>
+                <Name>I</Name>
+                <Unit>A</Unit>
+            </MinMeanMax>
+            <MinMeanMax>
+                <Max>15.5078125</Max>
+                <Mean>14.029092788696289</Mean>
+                <Min>0.0546875</Min>
+                <Name>U</Name>
+                <Unit>V</Unit>
+            </MinMeanMax>
+            <MinMeanMax>
+                <Max>6.1640625</Max>
+                <Mean>5.14411735534668</Mean>
+                <Min>0</Min>
+                <Name>Wfs</Name>
+                <Unit>m/min</Unit>
+            </MinMeanMax>
+            <MinMeanMax>
+                <Max>2328.5</Max>
+                <Mean>2064.455810546875</Mean>
+                <Min>0.0009765625</Min>
+                <Name>Power</Name>
+                <Unit>W</Unit>
+            </MinMeanMax>
+            <MinMeanMax>
+                <Max>60</Max>
+                <Mean>60</Mean>
+                <Min>60</Min>
+                <Name>Welding speed</Name>
+                <Unit>cm/min</Unit>
+            </MinMeanMax>
+            <MinMeanMax>
+                <Max>1.4462605714797974</Max>
+                <Mean>1.375096321105957</Mean>
+                <Min>0.086182296276092529</Min>
+                <Name>Motor current M1</Name>
+                <Unit>A</Unit>
+            </MinMeanMax>
+            <MinMeanMax>
+                <Max>9.29326343536377</Max>
+                <Mean>8.381657600402832</Mean>
+                <Min>0</Min>
+                <Name>Motor force M1</Name>
+                <Unit>N</Unit>
+            </MinMeanMax>
+        </Stats>
+    </WeldData>
+    <WeldId>63cf1d5e-b01a-4bd1-8e58-5401bd18178a</WeldId>
+    <Welder>admin</Welder>
+</WeldResponseModel>

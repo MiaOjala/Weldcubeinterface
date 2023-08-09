@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: #fbfbfd;
+}
+.tablerow {
+  cursor: pointer;
+}
+.navlink {
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 6px;
+  text-decoration: none;
+}
+.navlink:hover {
+  color: #fff;
+}
+#th-state {
+  user-select: none;
+  cursor: pointer;
+}
+
+#th-state:hover {
+  background-color: rgba(0, 0, 0, 0.075);
+}
